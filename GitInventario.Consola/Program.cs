@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("¡Bienvenido al sistema de inventario!");
+            Console.WriteLine("Menú Principal");
         }
     }
 }
